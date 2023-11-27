@@ -1,4 +1,4 @@
-//Save as AccountBalance.java
+//Save as AccountBalance.java in the folder name as Mypack
 //javac -d . AccountBalance.java
 //java Mypack.AccountBalance
 package MyPack;
