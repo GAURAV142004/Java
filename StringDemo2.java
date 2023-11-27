@@ -3,8 +3,8 @@ public static void main(String args[]){
 String strOb1="first String";
 String strOb2="Second String";
 String strOb3=strOb1;
-System.out.prinln("Length of strOb1:+strOb1.length());
-System.out.prinln("char at index 3 in strOb1:+strOb1.charAt(3));
+System.out.prinln("Length of strOb1:"+strOb1.length());
+System.out.prinln("char at index 3 in strOb1:"+strOb1.charAt(3));
 if(strOb1.equals(strOb2))
 System.out.println("strOb1==strOb2");
 else
