@@ -1,3 +1,6 @@
+//Save as AccountBalance.java
+//javac -d . AccountBalance.java
+//java Mypack.AccountBalance
 package MyPack;
 class Balance 
 {
