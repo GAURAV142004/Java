@@ -14,11 +14,11 @@ bal = b;
 void show()
 {
 if(bal<0)
-System.out.print("-->> ");
+System.out.print(s:"-->> ");
 System.out.println(name + ": $" + bal);
 }
 }
-class AccountBalance {
+public class AccountBalance {
 public static void main(String args[]) {
 Balance current[] = new Balance[3];
 current[0] = new Balance("K. J. Fielding", 123.23);
