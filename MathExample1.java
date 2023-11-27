@@ -1,6 +1,6 @@
 public class JavaMathExample1
 {
-public static void main(string[]args)
+public static void main(String[]args)
 {
 double x=28;
 double y=4;
